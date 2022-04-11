@@ -61,7 +61,7 @@ PushDeer有Mac客户端，亦支持推送。可在Mac应用商店中搜索「Pus
 
 ### Android
 
-快应用尚在开发，可下载并安装Android测试版APP([GitHub](https://github.com/easychen/pushdeer/releases/tag/android1.0alpha)|[Gitee](https://gitee.com/easychen/pushdeer/releases/android1.0alpha))。
+快应用尚在开发，可下载并安装Android测试版APP([GitHub](https://github.com/lwuchang/pushdeer/releases/tag/android1.0alpha)|[Gitee](https://gitee.com/lwuchang/pushdeer/releases/android1.0alpha))。
 
 
 ### 发送消息
